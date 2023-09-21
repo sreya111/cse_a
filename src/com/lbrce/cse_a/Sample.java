@@ -12,5 +12,9 @@ public class Sample {
 		System.out.println("this is team lead - sreya");
 		
 	}
-
+	public static void hepsiba() {
+		// TODO Auto-generated method stub
+		System.out.println("this is team member - hepsiba");
+		
+	}
 }
